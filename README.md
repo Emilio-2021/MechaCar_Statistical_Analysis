@@ -24,7 +24,7 @@ Here are the summary results from the linear regression.
 
 ### Miles Per Gallon Linear Regression
 
-![deliverable1](/visualizations/deliverable1.png)
+![deliverable1](visualizations/deliverable1.png)
 
 ## Summary Statistics on Suspension Coils
 
@@ -32,11 +32,11 @@ In this section, we loaded in the suspension coils dataset. It  was comprised of
 
 ### Total Summary Table
 
-![total_summary](/visualizations/total_summary.png)
+![total_summary](visualizations/total_summary.png)
 
 ### Lot Summary Table
 
-![lot_summary](/visualizations/lot_summary.png)
+![lot_summary](visualizations/lot_summary.png)
 
 Looking at the total summary, the current variance is approximately 76.23 PSI meaning that is does meet the design specification. When looking at the lots individuals, the first two lotas meet the design specification at a varaince of approximately 1.14 PSI and 10.13 PSI respectfully, but the third lot does not. This is becasue the third lot's variance is approximately 220.01 PSI, exceeding the design specification by more than double the alotted amount. Therefore, the manufacturing team should work with the cars in lots 1 and 2 compared to those in lot 3.
 
@@ -52,19 +52,19 @@ The answer to this question is:
 
 ### All Three Lots Combined Test
 
-![deliverable3](/visualizations/deliverable3.png)
+![deliverable3](visualizations/deliverable3.png)
 
 ### Lot 1 Test
 
-![lot1](/visualizations/lot1.png)
+![lot1](visualizations/lot1.png)
 
 ### Lot 2 Test
 
-![lot2](/visualizations/lot2.png)
+![lot2](visualizations/lot2.png)
 
 ### Lot 3 Test
 
-![lot3](/visualizations/lot3.png)
+![lot3](visualizations/lot3.png)
 
 ## Study Design: MechaCar vs Competition
 
