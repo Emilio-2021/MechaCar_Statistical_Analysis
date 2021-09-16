@@ -12,3 +12,17 @@ lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AW
 #6 Determine p-value and r-sqr value for linear regression model(above)
 summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, mpg_df))
 
+
+# Deliverable 2
+
+#2 Import and read the CSV file
+coil_table <- read.csv('Suspension_Coil.csv',check.names=F,stringsAsFactors = F)
+
+#3 Create a total_summary df 
+total_summary <- summarize(coil_table,Mean=mean(PSI),Median=median(PSI),Variance=var(PSI),SD=sd(PSI), .groups = 'keep')
+total_summary
+#4 Create a lot_summary df  
+lot_summary <- coil_table %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median=median(PSI),Variance=var(PSI),SD=sd(PSI), .groups = 'keep')
+lot_summary
+
+
