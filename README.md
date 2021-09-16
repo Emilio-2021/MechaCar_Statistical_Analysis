@@ -24,7 +24,7 @@ Here are the summary results from the linear regression.
 
 ### Miles Per Gallon Linear Regression
 
-![deliverable1.png](https://github.com/Emilio-2021/MechaCar_Statistical_Analysis/blob/main/visualizations/deliverable1.png)
+![deliverable1](https://user-images.githubusercontent.com/16723095/133644594-88b320db-2a9b-4d50-aed4-e62b61f353d7.PNG)
 
 ## Summary Statistics on Suspension Coils
 
@@ -32,11 +32,11 @@ In this section, we loaded in the suspension coils dataset. It  was comprised of
 
 ### Total Summary Table
 
-![total_summary.png](https://github.com/Emilio-2021/MechaCar_Statistical_Analysis/blob/main/visualizations/total_summary.png)
+![total_summary](https://user-images.githubusercontent.com/16723095/133644648-6146b697-d9b9-4800-92e8-ff1da57f490d.PNG)
 
 ### Lot Summary Table
 
-![lot_summary.png](https://github.com/Emilio-2021/MechaCar_Statistical_Analysis/blob/main/visualizations/lot_summary.png)
+![lot_summary](https://user-images.githubusercontent.com/16723095/133644671-9f307ffd-feea-4192-812c-6154210ee501.PNG)
 
 Looking at the total summary, the current variance is approximately 76.23 PSI meaning that is does meet the design specification. When looking at the lots individuals, the first two lotas meet the design specification at a varaince of approximately 1.14 PSI and 10.13 PSI respectfully, but the third lot does not. This is becasue the third lot's variance is approximately 220.01 PSI, exceeding the design specification by more than double the alotted amount. Therefore, the manufacturing team should work with the cars in lots 1 and 2 compared to those in lot 3.
 
@@ -52,19 +52,19 @@ The answer to this question is:
 
 ### All Three Lots Combined Test
 
-![deliverable3](visualizations/deliverable3.png)
+![deliverable3](https://user-images.githubusercontent.com/16723095/133644752-ef8a01a7-ed62-4dfc-be39-86e422b64847.PNG)
 
 ### Lot 1 Test
 
-![lot1](visualizations/lot1.png)
+![lot1](https://user-images.githubusercontent.com/16723095/133644783-bdab5ae8-9050-4a1e-b702-644a5654199f.PNG)
 
 ### Lot 2 Test
 
-![lot2](visualizations/lot2.png)
+![lot2](https://user-images.githubusercontent.com/16723095/133644794-e4f4fc45-6a91-48e6-abd8-46089d5f7707.PNG)
 
 ### Lot 3 Test
 
-![lot3](visualizations/lot3.png)
+![lot3](https://user-images.githubusercontent.com/16723095/133644806-999fa5a9-46c4-42a3-a82b-134bdee2596f.PNG)
 
 ## Study Design: MechaCar vs Competition
 
